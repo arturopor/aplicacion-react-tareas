@@ -20,3 +20,9 @@ https://github.com/estefaniacn/aplicacion-tareas-react
 https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=11910s
 
 2023/11/22_00:16h: fin en momento 07:10h. Faltaría la parte de los retos.
+
+Componentes de clase: anteriores a los hooks, eran la forma de poder manejar estados.
+constructor()
+    super()
+this.state = objeto
+this.setState(objeto)
